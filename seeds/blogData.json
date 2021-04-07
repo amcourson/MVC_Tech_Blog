@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tech Blogs",
+    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "blog_post": "this is a post",
+    "user_id": 1234
+    
+  },
+  {
+    "name": "The Ultimate Tech Quiz",
+    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
+    "blog_post": "this is a post",
+    "user_id": 1234
+    
+  },
+  {
+    "name": "How much do you know about full stack development",
+    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
+    "blog_post": "this is a post",
+    "user_id": 1234
+    
+  }
+]

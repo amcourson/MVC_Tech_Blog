@@ -1,10 +1,10 @@
 const router = require('express').Router();
 const userRoutes = require('./userRoutes');
-const projectRoutes = require('./projectRoutes');
+const BlogRoutes = require('./BlogRoutes');
 
 
 //install handlebars, mysql2, sequelize, dotenv, expression-session, connect-session
 router.use('/users', userRoutes);
-router.use('/projects', projectRoutes);
+router.use('/Blog', BlogRoutes);
 
 module.exports = router;
