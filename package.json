@@ -1,7 +1,7 @@
 {
   "name": "crowd-funding",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is a blog about technology. It allows us to create, edit, and add blog posts as well as look at a dashboard of posts and allows users to create a login. \r ## Motivation\r The motivation behind this project was to allow for us to make a working blog site uses the MVC techcnology model we learned in unit 14 of the UT coding Bootcamp.\r ## Build status\r Build status of continus integration",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,5 +26,13 @@
     "eslint": "^7.12.1",
     "eslint-config-prettier": "^6.15.0",
     "prettier": "^2.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcourson/MVC_Tech_Blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amcourson/MVC_Tech_Blog/issues"
+  },
+  "homepage": "https://github.com/amcourson/MVC_Tech_Blog#readme"
 }
